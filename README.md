@@ -1,16 +1,16 @@
-# Transcension Brand Book
+# Transcension AI Brand Book
 
-This document outlines the official brand guidelines for **Transcension**, covering logo usage, color palette, typography, and design standards to ensure a cohesive and accessible brand identity.
+This document outlines the official brand guidelines for **Transcension AI**, covering logo usage, color palette, typography, and design standards to ensure a cohesive and accessible brand identity.
 
 ## Brand Overview
 
-**Transcension** represents innovation, professionalism, and accessibility in technology. Our brand assets are crafted to communicate a sleek, modern, and tech-focused identity, ensuring consistency and readability across all platforms and media.
+**Transcension AI** represents innovation, professionalism, and accessibility in technology. Our brand assets are crafted to communicate a sleek, modern, and tech-focused identity, ensuring consistency and readability across all platforms and media.
 
 ## Logo
 
 ### Primary Logo
 
-The primary logo includes the **Transcension** symbol and wordmark, with the wordmark set in [**Montserrat Semi-Bold**](https://fonts.google.com/specimen/Montserrat). The wordmark has been adjusted for a tighter width to enhance readability and maintain a sleek aesthetic.
+The primary logo includes the **Transcension AI** symbol and wordmark, with the wordmark set in [**Montserrat Semi-Bold**](https://fonts.google.com/specimen/Montserrat). The wordmark has been adjusted for a tighter width to enhance readability and maintain a sleek aesthetic.
 
 ### Logo Usage
 
@@ -67,7 +67,7 @@ To achieve a synthwave or vaporwave feel, a complementary purple accent will enh
 
 ## Typography
 
-Our primary typeface is [**Montserrat Semi-Bold**](https://fonts.google.com/specimen/Montserrat), modified for a tighter width to give a modern, streamlined appearance that aligns with Transcension’s tech-focused identity.
+Our primary typeface is [**Montserrat Semi-Bold**](https://fonts.google.com/specimen/Montserrat), modified for a tighter width to give a modern, streamlined appearance that aligns with Transcension AI’s tech-focused identity.
 
 **Font Pairing**: For body text in longer documents, pair Montserrat with simple sans-serif fonts like Arial or Helvetica to maintain a clean and professional look.
 
