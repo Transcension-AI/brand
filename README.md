@@ -65,7 +65,6 @@ To achieve a synthwave or vaporwave feel, a complementary purple accent will enh
 - **Neon Purple** (#A020F0)
   - **Use**: This vibrant purple has a strong neon quality, making it an ideal accent for a synthwave look. It contrasts well with the electric blue and can be used sparingly to highlight specific elements, giving a retro-futuristic vibe.
 
-
 ## Typography
 
 Our primary typeface is [**Montserrat Semi-Bold**](https://fonts.google.com/specimen/Montserrat), modified for a tighter width to give a modern, streamlined appearance that aligns with Transcension’s tech-focused identity.
